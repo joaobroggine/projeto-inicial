@@ -3,6 +3,14 @@ h1 {
     text-align: center;
  }
 
+    #cabecalho{
+        background-image: url("../img/image-01-banner.webp");
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: center;
+        background-size: cover;
+    }
+
  .link {
     border: 2px solid rgb(255, 0, 0);
     display: inline-block;
