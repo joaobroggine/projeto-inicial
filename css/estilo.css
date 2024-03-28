@@ -64,6 +64,11 @@ a {
     font-weight: bold;
  }
 
+#rodape{
+    border-top: 2px solid red;
+    
+}
+
  #externos ul{
     font-weight: bold;
  }
