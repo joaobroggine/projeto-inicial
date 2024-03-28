@@ -8,6 +8,10 @@ h1 {
     font-family: serif;
  }
 
+.container {
+    margin: 20px;
+}
+
     #cabecalho{
         background-color: blue;
         background-image: url("../img/image-01-banner.webp");
