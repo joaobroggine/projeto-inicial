@@ -49,4 +49,9 @@ a {
  #menu {
     list-style-type: none;
     text-align: center;
+    font-weight: bold;
+ }
+
+ #externos {
+    font-weight: bold;
  }
