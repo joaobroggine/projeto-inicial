@@ -4,6 +4,7 @@ h1 {
  }
 
     #cabecalho{
+        background-color: blue;
         background-image: url("../img/image-01-banner.webp");
         background-repeat: no-repeat;
         background-size: contain;
