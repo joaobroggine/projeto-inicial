@@ -50,12 +50,16 @@ a {
 
  }
 
- #menu {
+ #conteudo{
+    padding: 1.5px;
+ }
+
+ #menu ul{
     list-style-type: none;
     text-align: center;
     font-weight: bold;
  }
 
- #externos {
+ #externos ul{
     font-weight: bold;
  }
